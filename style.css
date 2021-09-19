@@ -94,6 +94,7 @@ img {
     visibility: hidden;
     opacity: 0;
     transition: .4s;
+    border-radius: 5px;
 }
 
 .primary_menu li:hover ul {
