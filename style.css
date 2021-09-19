@@ -308,8 +308,8 @@ img {
 
 .service_item:hover {
     background: #3e41ee;
+    transform: scale(1.02);
 }
-
 .service_item:hover span {
     background: white !important;
     color: #3e41ee;
